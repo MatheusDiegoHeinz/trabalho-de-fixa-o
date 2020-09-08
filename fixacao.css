@@ -1,0 +1,38 @@
+div {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+}
+
+.superior_esquerda{
+ background-color: brown;
+ top: 0;
+ left: 0;
+}
+
+.superior_direito{
+ background-color: burlywood;
+ top: 0;
+ right: 0;
+}
+
+.inferior_esquerda{
+ background-color: crimson;
+ bottom: 0;
+ left: 0;
+}
+
+.inferior_direito{
+ background-color: darkkhaki;
+ bottom: 0;
+ right: 0;
+}
+
+.centro{
+ background-color:gold;
+ top: 50%;
+ left: 50%;
+ margin-left: -150px;
+ margin-top: -150px;
+ line-height: 100px;
+}
